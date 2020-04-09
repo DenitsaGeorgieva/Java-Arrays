@@ -24,8 +24,7 @@ public class MaxSequenceOfEqualElements {
                         bestSeqIndex = index;
                     }
                 } else {
-                   
-                   break;
+                  break;
                 }
             }
         }
