@@ -18,6 +18,7 @@ public class ArrayRotation {
             }
             numbers[numbers.length - 1] = firstElement;
         }
+        
         for (int i = 0; i < numbers.length ; i++) {
             System.out.print(numbers[i] + " ");
 
