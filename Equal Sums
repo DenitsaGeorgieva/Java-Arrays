@@ -10,7 +10,6 @@ public class EqualSums {
         for (int i = 0; i<numbers.length;i++){
             numbers[i] = Integer.parseInt(input[i]);
         }
-        
         String output = "no";
         for (int i = 0; i <numbers.length ; i++) {
             int leftSum = 0;
