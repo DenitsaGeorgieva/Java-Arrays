@@ -11,7 +11,6 @@ public class EqualArrays {
         int[] secondArray = Arrays.stream(scanner.nextLine().split(" "))
                 .mapToInt(Integer::parseInt).toArray();
 
-        
         int index = -1;
         int sum=0;
 
