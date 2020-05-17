@@ -20,6 +20,7 @@ public class EqualArrays {
                 break;
 
             }
+            
             sum+=firstArray[i];
         }
         if(index==-1){
